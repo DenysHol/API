@@ -1,2 +1,2 @@
-# API
-# API
+Esta API del Tiempo proporciona datos meteorológicos actuales y pronósticos para ubicaciones específicas. Con ella, puedes obtener información detallada sobre el clima, como la temperatura actual y la humedad.
+Para utilizar la API del Tiempo, simplemente realiza una solicitud HTTP GET a la URL de la API proporcionando la ubicación deseada como parámetro. La respuesta será un objeto JSON con la información meteorológica correspondiente.
